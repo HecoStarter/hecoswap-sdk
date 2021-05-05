@@ -1,16 +1,16 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "@hecoswap/sdk",
   "license": "MIT",
-  "version": "3.0.3",
-  "description": "🛠 An SDK for building applications on top of Uniswap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of HecoSwap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/HecoStarter/hecoswap-sdk",
   "keywords": [
-    "uniswap",
+    "hecoswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
